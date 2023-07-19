@@ -1,0 +1,23 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.failure-image {
+  width: 400px;
+}
+.failure-heading {
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 500;
+  color: #475569;
+  margin: 30px 5px;
+}
+.failure-paragraph {
+  color: #64748b;
+  margin-top: 10px;
+  font-family: Roboto;
+  font-size: 18px;
+}
